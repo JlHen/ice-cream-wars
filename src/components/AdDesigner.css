@@ -1,3 +1,28 @@
 .AdDesigner h2 {
     font-family: 'Caveat', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+.AdDesigner div {
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+.AdDesigner button{
+    color: white;
+    background-color: #0e3c7e;
+    margin: 3px;
+    padding: 5px;
+}
+
+.AdDesigner button:disabled {
+    background-color: gray;
+}
+
+.Ad {
+    text-align: center;
+    box-shadow: 0 3px 3px gray;
+    border: 3px white;
 }

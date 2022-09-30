@@ -1,3 +1,16 @@
 .Votes h2 {
     font-family: 'Caveat', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+.Votes button{
+    color: white;
+    background-color: #0e3c7e;
+    margin: 3px;
+    padding: 5px;
+}
+
+.Votes button:disabled {
+    background-color: gray;
 }

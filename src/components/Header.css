@@ -1,6 +1,7 @@
 .Header {
     color: #0e3c7e;
     font-family: 'Caveat', sans-serif;
-    box-shadow: 5px 10px gray;
+    box-shadow: 0 10px 5px gray;
     text-align: center;
+    font-size: 48px;
 }
